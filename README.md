@@ -25,9 +25,9 @@ Remember: Every company is different and may have different expectations!
 Resume
 * 1 page
 * Strong bullets
-+ *"Reduced object rendering by 75% by implementing distributed caching, eadinf to a 10% eduction in log-in time."*
+  + *"Reduced object rendering by 75% by implementing distributed caching, eadinf to a 10% eduction in log-in time."*
 * Project sections
-+ *Put significant projects, courses and independent work (indepdenent projects can show initiative)*
+  + Put significant projects, courses and independent work (__indepdenent projects can show initiative__)
 * Make sure you understand __everything__ on your resume
 
 Behavioral
