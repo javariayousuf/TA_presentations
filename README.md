@@ -25,18 +25,18 @@ Remember: Every company is different and may have different expectations!
 Resume
 * 1 page
 * Strong bullets
-+ *"Reduxed objext rendering by 75% by implementing distributed caching, eadinf to a 10% eduction in log-in time."*
++ *"Reduced object rendering by 75% by implementing distributed caching, eadinf to a 10% eduction in log-in time."*
 * Project sections
 + *Put significant projects, courses and independent work (indepdenent projects can show initiative)*
 * Make sure you understand __everything__ on your resume
 
 Behavioral
 * Do research
-+ Look up the company's mission statement
-+ Know the company's products
-+ Find your interview LinkedIn
+  + Look up the company's mission statement
+  + Know the company's products
+  + Find your interview LinkedIn
 * Have your questions prepared
-+ What are your weaknesses?
-+ Why this company?
+  + What are your weaknesses?
+  + Why this company?
 * What questions to ask:
-+ Genuine, insightful, passionate questions
+  + Genuine, insightful, passionate questions
