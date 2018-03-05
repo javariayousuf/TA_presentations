@@ -15,3 +15,4 @@ Potential UX design job titles:
   + *"From our research, a typical users would..."*
 * Front-End Developer: focuses on implementation, making the design work
   + *"I'm using a 960 px 12-column grid system"*
+![Caption for the picture.](/path/to/image.png)
