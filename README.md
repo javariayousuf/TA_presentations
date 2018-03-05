@@ -28,7 +28,6 @@ Resume
 * Project sections
   + Put significant projects, courses and independent work (__indepdenent projects can show initiative__)
 * Make sure you understand __everything__ on your resume
-
 Behavioral
 * Do research
   + Look up the company's mission statement
@@ -39,8 +38,7 @@ Behavioral
   + Why this company?
 * What questions to ask:
   + Genuine, insightful, passionate questions
-  
-  Technical
+Technical
   * Coding questions
     + Theory, and application
     + Practice!
