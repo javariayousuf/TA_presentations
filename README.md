@@ -15,5 +15,11 @@ Potential UX design job titles:
   + *"From our research, a typical users would..."*
 * Front-End Developer: focuses on implementation, making the design work
   + *"I'm using a 960 px 12-column grid system"*
+  
 ![](javariayousuf/TA_presentations/UX1.png)
 ![](javariayousuf/TA_presentations/UX2.png)
+
+#### Interview Funsies!, Andrew Kan
+Remember: Every company is different and may have different expectations!
+
+
