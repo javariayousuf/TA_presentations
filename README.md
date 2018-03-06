@@ -1,6 +1,7 @@
 ## INFO 201 TA Presentations, March 05th 2018
 
 ### UX Design, Anni Yan
+> TA Anni Yan discussed the different types of jobs someone who studies UX design could have by describing their job description and providing a quote someone in the field might say during a work day.
 **Potential UX design job titles:**
 * UX Designer: focuses on the flow of an app or other system(s) for a user 
   + *"We should show users a 'Thank You' page once they have finished signing up"*
@@ -16,6 +17,7 @@
   + *"I'm using a 960 px 12-column grid system"*
   ![alt text](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.07.05%20PM.png) 
 ### Preparing for the Interview, Andrew Kan
+> TA Andrew Kan discussed some helpful tips for preparing for a job interview, from your resume to behavior to hard skills!
 **Resume**
 * 1 page
 * Strong bullets
