@@ -1,5 +1,5 @@
 ## INFO 201 TA Presentations, March 05th 2018
-### This blog post shares some of the information students learned when attending this lecture! TA's shared their different interests in informatics/related fields and provided some useful tips and advice for students interested in pursuing a career in informatics/related fields.
+#### This blog post shares some of the information students learned when attending this lecture! TA's shared their different interests in informatics/related fields and provided some useful tips and advice for students interested in pursuing a career in informatics/related fields.
 
 ### UX Design, Anni Yan
 > TA Anni Yan discussed the different types of jobs someone who studies UX design could have by describing their job description and providing a quote someone in the field might say during a work day.
