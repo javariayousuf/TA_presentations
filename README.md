@@ -46,7 +46,8 @@
     
    ![](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.06.53%20PM.png)
 ### User Research, Jacob Lu
-> TA Jacob Lu talked about user research, specifically how to conduct quality research, and what the benefits and drawbacks of conducting user research is.
+> TA Jacob Lu talked about user research, specifically how to conduct quality research, what types of user resarch you can conduct (persona, observational) and what the benefits and drawbacks of conducting user research are.
+
 75% of IT projects fail; why?
   + Poor planning, failure to understand scope, jump in too quickly
   + Not being able to take critique, stopping when project is failing
