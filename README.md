@@ -64,3 +64,4 @@ How do you conduct user research?
     + Have themes when asking questions, ask questions about specific topics
     + Establish credibility
     + Record information: take notes or record audio
+![](https://github.com/javariayousuf/TA_presentations/blob/master/Jacob.png)
