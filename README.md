@@ -56,7 +56,7 @@ Solution to fixing your project
 How do you conduct user research?
   + Interviews
     + Don't have leading questions: *"Why is the product so bad?*
-    + Don't have loaded questions: *"Have you stopped riding the bus?* assumes the user rides the bus
-    + Have themes throughout questions, ask questions about specific topics
+    + Don't have loaded questions: *"Have you stopped riding the bus?"* assumes the user rides the bus
+    + Have themes when asking questions, ask questions about specific topics
     + Establish credibility
     + Record information: take notes or record audio
