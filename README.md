@@ -1,7 +1,7 @@
 ### INFO 201 TA Presentations, March 05th, 2018
 
 #### UX Design, Anni Yan
-##### Potential UX design job titles:
+**Potential UX design job titles:**
 * UX Designer: focuses on the flow of an app or other system(s) for a user 
   + *"We should show users a 'Thank You' page once they have finished signing up"*
 * UI Designer: focuses on the layout of the system
