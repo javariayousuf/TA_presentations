@@ -1,6 +1,6 @@
-### INFO 201 TA Presentations, March 05th 2018
+## INFO 201 TA Presentations, March 05th 2018
 
-#### UX Design, Anni Yan
+### UX Design, Anni Yan
 **Potential UX design job titles:**
 * UX Designer: focuses on the flow of an app or other system(s) for a user 
   + *"We should show users a 'Thank You' page once they have finished signing up"*
@@ -14,7 +14,8 @@
   + *"From our research, a typical users would..."*
 * Front-End Developer: focuses on implementation, making the design work
   + *"I'm using a 960 px 12-column grid system"*
-#### Interview Funsies!, Andrew Kan
+  
+### Interview Funsies!, Andrew Kan
 Preparing for the Interview:   
 
 **Resume**
