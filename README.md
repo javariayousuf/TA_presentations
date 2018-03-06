@@ -15,7 +15,7 @@
   + *"From our research, a typical users would..."*
 * Front-End Developer: focuses on implementation, making the design work
   + *"I'm using a 960 px 12-column grid system"*
-  ![alt text](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.07.05%20PM.png) 
+  ![](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.07.05%20PM.png) 
 ### Preparing for an Interview, Andrew Kan
 > TA Andrew Kan discussed some helpful tips for preparing for a job interview, from your resume to behavior to hard skills!
 
@@ -42,4 +42,4 @@
   * Coding questions
     + Theory, and application
     + Practice!
-    ![alt text](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.06.53%20PM.png)
+    ![](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.06.53%20PM.png)
