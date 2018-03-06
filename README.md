@@ -39,7 +39,7 @@
   + Genuine, insightful, passionate questions
   
 **Technical**
-  * Coding questions
+* Coding questions
     + Theory, and application
     + Practice!
     ![](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.06.53%20PM.png)
