@@ -49,10 +49,12 @@
 75% of IT projects fail; why?
   + Poor planning, failure to understand scope, jump in too quickly
   + Not being able to take critique, stopping when project is failing
+  
 Solution to fixing your project
   + Truly identify the problem (undesirable outcomes) that has consequences
   + Understand that everyone has problems unique to them - there is no average user
   + Conduct user research
+  
 How do you conduct user research?
   + Interviews
     + Don't have leading questions: *"Why is the product so bad?*
