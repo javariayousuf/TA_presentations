@@ -16,6 +16,7 @@
   + *"I'm using a 960 px 12-column grid system"*
 #### Interview Funsies!, Andrew Kan
 Preparing for the Interview:   
+
 **Resume**
 * 1 page
 * Strong bullets
@@ -23,6 +24,7 @@ Preparing for the Interview:
 * Project sections
   + Put significant projects, courses and independent work (__indepdenent projects can show initiative__)  
 * Make sure you understand __everything__ on your resume
+
 **Behavioral**
 * Do research
   + Look up the company's mission statement
@@ -32,7 +34,8 @@ Preparing for the Interview:
   + What are your weaknesses?
   + Why this company?
 * What questions to ask:
-  + Genuine, insightful, passionate questions  
+  + Genuine, insightful, passionate questions
+  
 **Technical**
   * Coding questions
     + Theory, and application
