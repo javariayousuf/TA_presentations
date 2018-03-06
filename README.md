@@ -15,9 +15,7 @@
 * Front-End Developer: focuses on implementation, making the design work
   + *"I'm using a 960 px 12-column grid system"*
   
-### Interview Funsies!, Andrew Kan
-Preparing for the Interview:   
-
+### Preparing for the Interview, Andrew Kan
 **Resume**
 * 1 page
 * Strong bullets
