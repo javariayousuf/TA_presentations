@@ -1,4 +1,4 @@
-### INFO 201 TA Presentations, March 05th, 2018
+### INFO 201 TA Presentations, March 05th 2018
 
 #### UX Design, Anni Yan
 **Potential UX design job titles:**
