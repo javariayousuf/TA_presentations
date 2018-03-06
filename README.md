@@ -46,3 +46,17 @@
     
    ![](https://github.com/javariayousuf/TA_presentations/blob/master/Screen%20Shot%202018-03-05%20at%204.06.53%20PM.png)
 ### User Research, Jacob Lu
+75% of IT projects fail; why?
+  + Poor planning, failure to understand scope, jump in too quickly
+  + Not being able to take critique, stopping when project is failing
+Solution to fixing your project
+  + Truly identify the problem (undesirable outcomes) that has consequences
+  + Understand that everyone has problems unique to them - there is no average user
+  + Conduct user research
+How do you conduct user research?
+  + Interviews
+    + Don't have leading questions: *"Why is the product so bad?*
+    + Don't have loaded questions: *"Have you stopped riding the bus?* assumes the user rides the bus
+    + Have themes throughout questions, ask questions about specific topics
+    + Establish credibility
+    + Record information: take notes or record audio
